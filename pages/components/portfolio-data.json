@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "img": "first",
+        "title": "Seraph Station",
+        "text": "September 2019"
+    },
+    {
+        "id": 2,
+        "img": "second",
+        "title": "Eebox Building",
+        "text": "August 2017"
+    },
+
+    {
+        "id": 3,
+        "img": "third",
+        "title": "Federal II Tower",
+        "text": "March 2017"
+    },
+    {
+        "id": 4,
+        "img": "fourth",
+        "title": "Project Del Sol",
+        "text": "January 2016"
+    },
+    {
+        "id": 5,
+        "img": "fifth",
+        "title": "Le Prototype",
+        "text": "October 2015"
+    },
+    {
+        "id": 6,
+        "img": "sixth",
+        "title": "288B Tower",
+        "text": "April 2015"
+    },
+    {
+        "id": 7,
+        "img": "seventh",
+        "title": "Grand EdelWeiss",
+        "text": "December 2013"
+    },
+    {
+        "id": 8,
+        "img": "eigth",
+        "title": "Netcry Tower",
+        "text": "August 2012"
+    },
+    {
+        "id": 9,
+        "img": "ninth",
+        "title": "Hypers",
+        "text": "January 2012"
+    },
+    {
+        "id": 10,
+        "img": "tenth",
+        "title": "SXIV Tower",
+        "text": "March 2018"
+    },
+    {
+        "id": 11,
+        "img": "eleventh",
+        "title": "Trinity Bank Tower",
+        "text": "September 2010"
+    },
+    {
+        "id": 12,
+        "img": "twelfth",
+        "title": "Project Paramour",
+        "text": "February 2008"
+    }
+]
